@@ -1,11 +1,12 @@
 # Module-1-Challenge
 
-![Citadel Securities](https://en.wikipedia.org/wiki/File:Citadel_Securities_logo.jpg)]
+![Citadel_Securities](Citadel_Securities_logo.jpg)
+
 ## Overview and Origin
 
 * What is the name of the company?
- 
- The name of the company is Citadel Securities which is based in Miami, Florida.
+
+The name of the company is Citadel Securities which is based in Miami, Florida.
 
 * When was the company incorporated?
 
@@ -13,11 +14,11 @@ Citadel Securities was incorporated in 2002.
 
 * Who are the founders of the company?
 
-  Kenneth C. Griffin is the Founder of Citadel Securities. He also serves as the Chief Executive Officer and Co-Chief Investment Officer of Citadel.
+Kenneth C. Griffin is the Founder of Citadel Securities. He also serves as the Chief Executive Officer and Co-Chief Investment Officer of Citadel.
 
 * How did the idea for the company (or project) come about?
 
- The idea for Citadel Securities came about when Kenneth Griffin was working as a trader at Goldman Sachs. He saw the potential for using technology to improve the efficiency of the financial markets. Kenneth left Goldman Sachs in 1990 to start his own hedge fund, Citadel LLC. In 1999, he founded Citadel Securities as a way to provide liquidity to the markets and to take advantage of the opportunities created by technology.
+The idea for Citadel Securities came about when Kenneth Griffin was working as a trader at Goldman Sachs. He saw the potential for using technology to improve the efficiency of the financial markets. Kenneth left Goldman Sachs in 1990 to start his own hedge fund, Citadel LLC. In 1999, he founded Citadel Securities as a way to provide liquidity to the markets and to take advantage of the opportunities created by technology.
 
 * How is the company funded? How much funding have they received?
   
@@ -59,7 +60,7 @@ The domain of high-frequency trading (HFT) and market making includes several ma
 * Virtu Financial is a leading market maker and liquidity provider with a global presence and is known for its advanced technology and quantitative trading strategies.
 * Tower Research Capital is an HFT firm specializing in algorithmic trading and quantitative research with a strong focus on technology and market-making activities.
 * Jump Trading is an HFT firm involved in market making, proprietary trading, and algorithmic trading and are known for their quantitative research and technology-driven approach.
-*Jane Street is a proprietary trading firm specializing in market making and algorithmic trading and primarily operate in equities, options, and ETFs markets.
+* Jane Street is a proprietary trading firm specializing in market making and algorithmic trading and primarily operate in equities, options, and ETFs markets.
 
 ## Results
 
@@ -101,15 +102,28 @@ In addition to these benefits, the technologies I suggested are also appropriate
 Cited sources: 
 
 [https://en.wikipedia.org/wiki/Kenneth_C._Griffin](https://en.wikipedia.org/wiki/Kenneth_C._Griffin)
+
 [https://en.wikipedia.org/wiki/Citadel_Securities](https://en.wikipedia.org/wiki/Citadel_Securities)
+
 [https://www.citadel.com/our-teams/leadership/kenneth-c-griffin/](https://www.citadel.com/our-teams/leadership/kenneth-c-griffin/)
-[[https://www.citadel.com/our-teams/leadership/](https://www.citadelsecurities.com/our-teams/leadership/)](https://www.citadelsecurities.com/our-teams/leadership/)https://www.citadelsecurities.com/our-teams/leadership/
+
+[[https://www.citadel.com/our-teams/leadership/](https://www.citadelsecurities.com/our-teams/leadership/)](https://www.citadelsecurities.com/our-teams/leadership/)https://www.citadelsecurities.com/our-teams/leadership/)
+
 [https://www.crunchbase.com/organization/citadel-securities/company_financials](https://www.crunchbase.com/organization/citadel-securities/company_financials)
+
 [https://www.crunchbase.com/organization/citadel-securities](https://www.crunchbase.com/organization/citadel-securities)
+
 [https://www.sec.gov/Archives/edgar/data/1146184/000128417022000004/CDRG_BS_Only_FS_2021.pdf](https://www.sec.gov/Archives/edgar/data/1146184/000128417022000004/CDRG_BS_Only_FS_2021.pdf)
+
 [https://www.bloomberg.com/news/articles/2023-01-05/ken-griffin-s-citadel-securities-posts-record-revenue-hedge-fund-surges#xj4y7vzkg](https://www.bloomberg.com/news/articles/2023-01-05/ken-griffin-s-citadel-securities-posts-record-revenue-hedge-fund-surges#xj4y7vzkg)
+
 [https://www.citadelsecurities.com/news-and-insights/how-does-citadel-securities-compete-and-innovate/](https://www.citadelsecurities.com/news-and-insights/how-does-citadel-securities-compete-and-innovate/)
+
 [https://www.planetcompliance.com/introduction-hft-industry-top-20-hft-firms-world/#Analysis_of_HFT_Activity](https://www.planetcompliance.com/introduction-hft-industry-top-20-hft-firms-world/#Analysis_of_HFT_Activity)
+
 [https://www.citadelsecurities.com/valuation-metrics/](https://www.citadelsecurities.com/valuation-metrics/)
+
 [https://www.ft.com/content/2fd20c68-6d42-4663-9957-47911cc6c0c5](https://www.ft.com/content/2fd20c68-6d42-4663-9957-47911cc6c0c5)
-[https://economictimes.indiatimes.com/markets/expert-view/retail-investor-trading-set-to-be-driven-by-algos-with-democratisation-of-tech-utrade-solutions/articleshow/101205920.cms?from=mdr](https://economictimes.indiatimes.com/markets/expert-view/retail-investor-trading-set-to-be-driven-by-algos-with-democratisation-of-tech-utrade-solutions/articleshow/101205920.cms?from=mdr)
+
+[https://economictimes.indiatimes.com/markets/expert-view/retail-investor-trading-set-to-be-driven-by-algos-with-democratisation-of-tech-utrade-solutions/articleshow/101205920.cms?from=mdr]
+(https://economictimes.indiatimes.com/markets/expert-view/retail-investor-trading-set-to-be-driven-by-algos-with-democratisation-of-tech-utrade-solutions/articleshow/101205920.cms?from=mdr)
