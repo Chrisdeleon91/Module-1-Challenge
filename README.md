@@ -22,8 +22,7 @@ The idea for Citadel Securities came about when Kenneth Griffin was working as a
 
 > " How is the company funded? How much funding have they received?"
   
-Citadel Securities is a privately held company, so its financial information is not publicly available, however some insights into how the company is funded can be found by investigating  recent funding rounds. Citadel Securities raised a total of $1.2B in funding over 1 round through a Venture - Series Unknown round raised on Jan 11, 2022. The two most recent investors help fund Citadel Securities, Paradigm and Sequoia Capital.
-
+Citadel Securities is a privately held company, so its financial information is not publicly available, however some insights into how the company is funded can be found by investigating  recent funding rounds. Citadel Securities `raised a total of $1.2B in funding over 1 round` through a Venture - Series Unknown round raised on Jan 11, 2022. The `two most recent investors help fund Citadel Securities, Paradigm and Sequoia Capital`.
 ## Business Activities
 
 > " What specific financial problem is the company or project trying to solve?"
@@ -66,7 +65,7 @@ The domain of high-frequency trading (HFT) and market making includes several ma
 
 > " What has been the business impact of this company so far?"
 
-Citadel marked record revenues in its hedge fund and electronic-trading businesses for 2022 despite turmoil in global capital markets The hedge fund operation of Citadel made about $28 billion in revenue, while Citadel Securities, one of the world's biggest electronic-trading firms, brought in $7.5 billion.
+Citadel `marked record revenues in its hedge fund and electronic-trading businesses for 2022 despite turmoil in global capital markets The hedge fund operation of Citadel made about $28 billion in revenue, while Citadel Securities, one of the world's biggest electronic-trading firms, brought in $7.5 billion`.
 
 > " What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?"
 
@@ -84,7 +83,7 @@ Citadel Securities' competitors, Virtu Financial, Tower Research Capital, Jump T
 NOTE: If you have chosen a project within a larger company (such as the Apple credit card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
 something that a competitor offers, or use your imagination!)"
 
-I would advise the company to allow Algorithmic trading for retail investors. It is a concept where retail investors can access the same sophisticated trading tools and strategies that institutional investors use. This would allow retail investors to trade more efficiently and effectively, and to potentially generate higher returns. Algorithmic trading can help retail investors trade more efficiently, accurately and disciplinedly. It can also help them to manage their risk more effectively.
+I would advise the company to allow Algorithmic trading for retail investors. It is a concept where `retail investors can access the same sophisticated trading tools and strategies that institutional investors use`. This would allow retail investors to trade more efficiently and effectively, and to potentially generate higher returns. Algorithmic trading can help retail investors trade more efficiently, accurately and disciplinedly. It can also help them to manage their risk more effectively.
 
 > " Why do you think that offering this product or service would benefit the company?"
 
